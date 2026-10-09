@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+build/
+dist/
+*.spec
+*.exe
+*.zip
+*.log
+.env
+.env.*
+*history*.json
+cookies.txt

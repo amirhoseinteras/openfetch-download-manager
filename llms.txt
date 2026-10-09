@@ -1,0 +1,15 @@
+# OpenFetch
+
+Windows HTTP/HTTPS download manager with progress, resume and parallel transfers.
+
+## Windows downloads
+- Installer: https://github.com/amirhoseinteras/openfetch-download-manager/releases/latest/download/OpenFetch-Setup.exe
+- Portable ZIP: https://github.com/amirhoseinteras/openfetch-download-manager/releases/latest/download/OpenFetch-Portable.zip
+- SHA-256 checksums: https://github.com/amirhoseinteras/openfetch-download-manager/releases/latest
+
+Unsigned binaries may show a Windows SmartScreen warning. Always verify the release checksums.
+
+## Source, documentation and support
+- Instructions, requirements, license and limitations: https://github.com/amirhoseinteras/openfetch-download-manager#readme
+- Report issues: https://github.com/amirhoseinteras/openfetch-download-manager/issues
+- Source code and reproducible build instructions: https://github.com/amirhoseinteras/openfetch-download-manager
